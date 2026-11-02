@@ -29,7 +29,10 @@
  "license": {
   "text": "CC0 1.0"
  },
- "translation": "",
+ "translation": {
+  "count": 167,
+  "note": "AI による現代語訳"
+ },
  "blocks": [
   {
    "id": "zkt-sanekata-0001",
@@ -2382,7 +2385,7 @@
   "blocks": 167,
   "chars": 3752,
   "poems": 167,
-  "yaku": 0,
+  "yaku": 167,
   "editions": 1,
   "updated": "2026-11-02",
   "updated_at": "2026-11-02T23:47:46+09:00"
